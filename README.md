@@ -1,5 +1,4 @@
-<h1 align="center">Hello, I'm Velmurugan</h1>  
-<h3 align="center">A passionate flutter developer</h3>  
+<h1 align="center">Hello, I'm Velmurugan</h1> 
   
 <p align="left">
  <a href="https://twitter.com/nothingboxgames" target="blank"><img src="https://img.shields.io/twitter/follow/nothingboxgames?logo=twitter&style=for-the-badge" alt="nothingboxgames" /></a> __ <a href="https://twitter.com/the_vjack" target="blank"><img src="https://img.shields.io/twitter/follow/the_vjack?logo=twitter&style=for-the-badge" alt="the_vjack" /></a> </p>  
